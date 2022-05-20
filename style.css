@@ -1,0 +1,23 @@
+body {
+    background-color: cornflowerblue;
+}
+
+div.container {
+    width: max-content;
+    margin: 20% auto;
+}
+
+kbd {
+    font-family: "Apple SD Gothic Neo", sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    background-color: white;
+    border: outset 4px rgba(255,178,209,0.83);
+    width: 20px;
+    padding-top: 200px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: -3px;
+    text-align: center;
+    color: cornflowerblue;
+}
